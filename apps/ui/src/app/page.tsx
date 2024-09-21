@@ -27,6 +27,11 @@ export default function Index() {
               onClick={() => alert('Cancelled')}
               className="bg-green-500 text-gray-500 rounded-md p-2"
             />
+            <Button
+              label="Again"
+              onClick={() => alert('Cancelled')}
+              className="bg-green-500 text-gray-500 rounded-md p-2"
+            />
           </div>
           <div id="hero" className="rounded">
             <div className="text-container">
