@@ -1,6 +1,10 @@
-import styles from './button.module.css';
+interface ButtonProps {
+  label: string;
+  onClick: () => void;
+  className?: string;
+}
 
-export function Button({ label, onClick, className }: any) {
+export function Button({ label, onClick, className }: ButtonProps) {
   return (
     <button className={`${className}`} onClick={onClick}>
       <h1>{label}</h1>
