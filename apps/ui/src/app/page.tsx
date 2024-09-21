@@ -1,3 +1,5 @@
+'use client';
+import { Button } from '@practice/components';
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -11,10 +13,21 @@ export default function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome ui 👋
+              Welcome u 👋
             </h1>
+            <Button
+              label="Submit"
+              onClick={() => alert('Submitted')}
+              className={`bg-red-500 text-gray-500 rounded-md`}
+            ></Button>
           </div>
-
+          <div>
+            <Button
+              label="Cancel"
+              onClick={() => alert('Cancelled')}
+              className="bg-green-500 text-gray-500 rounded-md p-2"
+            />
+          </div>
           <div id="hero" className="rounded">
             <div className="text-container">
               <h2>
