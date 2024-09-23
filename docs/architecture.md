@@ -1,3 +1,5 @@
 ## Architecture for Lindapay Frontend
 
-[View README](/practice/README.md)
+<!-- [View README](/README.md) -->
+
+[View README](../README.md)
