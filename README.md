@@ -22,7 +22,7 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 ### Installation
 
 1. Clone the repository.
-   git clone https://github.com/gabu.git
+   git clone https://github.com/lindapay/lindapay-web.git
    cd lindapay-web
 
 2. Install dependencies.
@@ -33,23 +33,25 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 ### Project Structure
 
-your-nx-nextjs-project/
-├── apps/
-│ └── web/ # Next.js application
-│ ├── pages/ # Next.js pages
-│ ├── components/ # React components
-│ └── styles/ # Global styles (e.g., Tailwind CSS)
-├── libs/
-│ └── your-shared-library/ # Shared libraries (if any)
-├── cypress/
-│ ├── fixtures/ # Sample test data
-│ ├── integration/ # End-to-end tests
-│ └── support/ # Custom commands and configurations
+.
+├── README.md
+├── apps
+│   ├── ui
+│   └── ui-e2e
+├── components
+│   ├── README.md
+│   ├── eslint.config.js
+│   ├── project.json
+│   ├── src
+│   ├── tsconfig.json
+│   └── tsconfig.lib.json
+├── eslint.config.js
+├── jest.config.ts
+├── jest.preset.js
 ├── nx.json
+├── package-lock.json
 ├── package.json
-├── tailwind.config.js
-└── tsconfig.json
-
+└── tsconfig.base.json
 ### Development
 
 To start the development server for the Next.js application, run:
