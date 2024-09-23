@@ -13,3 +13,8 @@ export function Button({ label, onClick, className }: ButtonProps) {
 }
 
 export default Button;
+
+// FINE_GRAINED_TOKEN- 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
+
+
+// git remote set-url origin https://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@github.com/GabrielOchieng/lindapay-web
