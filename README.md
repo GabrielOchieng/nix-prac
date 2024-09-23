@@ -22,7 +22,7 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 ### Installation
 
 1. Clone the repository.
-   git clone https://github.com/url
+   git clone https://github.com/lindapay/lindapay-web.git
    cd lindapay-web
 
 2. Install dependencies.
@@ -33,7 +33,8 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 ### Project Structure
 
-...
+---
+
 ├── README.md
 ├── apps
 │   ├── ui
@@ -52,7 +53,8 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 ├── package-lock.json
 ├── package.json
 └── tsconfig.base.json
-...
+
+---
 
 ### Development
 
