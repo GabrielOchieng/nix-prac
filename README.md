@@ -155,7 +155,7 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 1. #### Clone the repository.
 
 ```
-git clone https://github.com/lindapay/lindapay-web.git
+git clone https://github.com/GabrielOchieng/nix-prac.git
 
 ```
 
@@ -240,7 +240,7 @@ Click Me
 
 #### Additional Resources
 
-For more information on customizing and using Tailwind CSS, you can refer to the official documentation: Tailwind CSS Documentation.
+For more information on customizing and using Tailwind CSS, you can refer to the official documentation: [Tailwind CSS Documentation] (https://tailwindcss.com/docs/installation).
 
 ### Project Structure
 
