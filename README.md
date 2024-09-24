@@ -34,6 +34,8 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 ### Project Structure
 
+```
+
 ├── README.md
 ├── apps
 │   ├── ui
@@ -52,6 +54,8 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 ├── package-lock.json
 ├── package.json
 └── tsconfig.base.json
+
+```
 
 ### Development
 
