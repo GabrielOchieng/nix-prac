@@ -23,8 +23,9 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 1. Clone the repository.
 
-```
 #!/bin/zsh
+
+```
 
 git clone https://github.com/gab.git
 
