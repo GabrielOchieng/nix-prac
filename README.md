@@ -141,6 +141,7 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 - [Testing](#testing)
 - [Build](#build)
 - [License](#license)
+- [View Documentation](./docs/architecture.md)
 
 ## Getting Started
 
