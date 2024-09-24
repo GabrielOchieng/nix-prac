@@ -204,7 +204,8 @@ yarn install
 
       - You can extend the default configuration or override it. For example, to add custom colors, you can modify the `theme.extend.colors` object like this:
 
-             ```javascript
+```
+javascript
 
         module.exports = {
         theme: {
@@ -376,4 +377,4 @@ The output will be generated in the dist/ folder.
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
+
