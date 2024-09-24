@@ -241,7 +241,6 @@ Click Me
 #### Additional Resources
 
 For more information on customizing and using Tailwind CSS, you can refer to the official documentation: [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation).
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 ### Project Structure
 
