@@ -193,7 +193,8 @@ yarn install
 
 ```
 
-3.  Configure Tailwind Css.
+3.  #### Configure Tailwind Css.
+
     Tailwind CSS is pre-configured in this project. It provides a utility-first approach to styling, allowing you to compose styles directly in your markup.
 
     #### Customizing Tailwind CSS
@@ -240,10 +241,6 @@ Click Me
 #### Additional Resources
 
 For more information on customizing and using Tailwind CSS, you can refer to the official documentation: Tailwind CSS Documentation.
-
-
-
-
 
 ### Project Structure
 
@@ -377,4 +374,3 @@ The output will be generated in the dist/ folder.
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
