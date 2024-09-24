@@ -242,7 +242,7 @@ Click Me
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-For more information on customizing and using Tailwind CSS, you can refer to the official documentation: [Tailwind CSS Documentation] (https://tailwindcss.com/docs/installation).
+For more information on customizing and using Tailwind CSS, you can refer to the official documentation: [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation).
 
 ### Project Structure
 
