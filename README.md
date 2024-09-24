@@ -240,7 +240,9 @@ Click Me
 
 #### Additional Resources
 
-For more information on customizing and using Tailwind CSS, you can refer to the official documentation: [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation){:target="\_blank"}.
+#### Additional Resources
+
+For more information on customizing and using Tailwind CSS, you can refer to the official documentation: <a href="https://tailwindcss.com/docs/installation" target="_blank">Tailwind CSS Documentation</a>.
 
 ### Project Structure
 
