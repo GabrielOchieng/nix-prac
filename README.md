@@ -23,18 +23,25 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 1. Clone the repository.
 
-#!/bin/zsh
-
 ```
 
 git clone https://github.com/gab.git
 
 ```
 
+```
+
 cd web
 
+```
+
 2. Install dependencies.
-   npm install
+
+```
+
+npm install
+
+```
 
 3. Configure Tailwind Css.
    Tailwind CSS is pre-configured in this project. For additional customization, edit the tailwind.config.js file.
@@ -67,7 +74,12 @@ cd web
 ### Development
 
 To start the development server for the Next.js application, run:
+
+```
+
 nx start web
+
+```
 
 This will start the app at http://localhost:3000.
 
@@ -76,20 +88,40 @@ This will start the app at http://localhost:3000.
 End-to-End Testing with Cypress
 
 Cypress is set up for end-to-end testing. To run the tests, use:
+
+```
+
 nx e2e web-e2e
 
+```
+
 To open the Cypress Test Runner, use:
+
+```
+
 nx open e2e web-e2e
+
+```
 
 This will open the Cypress GUI for interactive testing.
 
 Running Unit Tests
+
+```
+
 nx test web
+
+```
 
 ### Build
 
 To build the application for production, run:
+
+```
+
 nx build web
+
+```
 
 The output will be generated in the dist/ folder.
 
