@@ -152,7 +152,7 @@ This is a monorepo project built with Nx, featuring a Next.js application design
 
 ### Installation
 
-1. Clone the repository.
+1. #### Clone the repository.
 
 ```
 git clone https://github.com/lindapay/lindapay-web.git
@@ -163,7 +163,7 @@ git clone https://github.com/lindapay/lindapay-web.git
 cd lindapay-web
 ```
 
-2. Install dependencies.
+2. #### Install dependencies.
 
 For Bun:
 
